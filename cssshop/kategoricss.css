@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pembungkus{
+    margin-top: 50px;
+}
+
+.list-group-item{
+    border: none;
+    padding:0;
+    margin-top:7px;
+}
+.col-sm-2{
+    margin-top: 12px;
+}
+.col-sm img{
+    width:250px;
+    height: 350px;
+}
+.col-sm-10{
+    margin-top: 20px;
+}
+.list-group-item a{
+    text-decoration: none;
+    color: darkcyan;
+}
+.bunga{
+    font-size: 20px;
+}
+.hargabunga{
+    font-size: 15px;
+    margin-top: -15px;
+}
+.anotherpage{
+    margin-top: 50px;
+}
